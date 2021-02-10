@@ -1,3 +1,28 @@
+
+### References 
+*Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks*. Srijan Kumar, Xikun Zhang, Jure Leskovec. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019. 
+
+```
+ @inproceedings{kumar2019predicting,
+	title={Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks},
+	author={Kumar, Srijan and Zhang, Xikun and Leskovec, Jure},
+	booktitle={Proceedings of the 25th ACM SIGKDD international conference on Knowledge discovery and data mining},
+	year={2019},
+	organization={ACM}
+ }
+```
+
+### Note
+
+This is my practice code on implementing the paper *Predicting Dynamic Embedding Trajectory in Temoral Interaction Networks*
+
+
+
+
+
+
+
+
 ## Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (ACM SIGKDD 2019)
 #### Authors: [Srijan Kumar](http://cs.stanford.edu/~srijan), [Xikun Zhang](), [Jure Leskovec](https://cs.stanford.edu/people/jure/)
 <!--#### [Project website with links to the datasets](http://snap.stanford.edu/jodie/)-->
@@ -144,16 +169,3 @@ This code can be given the following command-line arguments:
 1. `--network`: this is the name of the file which has the data in the `data/` directory. The file should be named `<network>.csv`. The dataset format is explained below. This is a required argument. 
 
 
-### References 
-*Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks*. Srijan Kumar, Xikun Zhang, Jure Leskovec. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019. 
-
-If you make use of this code, the JODIE algorithm, the T-batch algorithm, or the datasets in your work, please cite the following paper:
-```
- @inproceedings{kumar2019predicting,
-	title={Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks},
-	author={Kumar, Srijan and Zhang, Xikun and Leskovec, Jure},
-	booktitle={Proceedings of the 25th ACM SIGKDD international conference on Knowledge discovery and data mining},
-	year={2019},
-	organization={ACM}
- }
-```
