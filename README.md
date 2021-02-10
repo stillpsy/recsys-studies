@@ -1,2 +1,2 @@
-# recsys
+# recsys-studies
 recsys models implementation
