@@ -16,8 +16,13 @@
 
 This is my practice code on implementing the paper *Predicting Dynamic Embedding Trajectory in Temoral Interaction Networks*
 
+Original github page of the author is https://github.com/srijankr/jodie 
 
+$phantom{a}$
 
+$phantom{a}$
+
+$phantom{a}$
 
 
 
