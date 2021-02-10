@@ -18,12 +18,6 @@ This is my practice code on implementing the paper *Predicting Dynamic Embedding
 
 Original github page of the author is https://github.com/srijankr/jodie 
 
-$phantom{a}$
-
-$phantom{a}$
-
-$phantom{a}$
-
 
 
 
