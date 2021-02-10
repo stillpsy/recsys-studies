@@ -16,4 +16,4 @@ If you make use of this code, the JODIE algorithm, the T-batch algorithm, or the
 
 ### Note
 
-This is my implementation of the above paper. Codes are heavily borrowed from the code of the original author.
+This is my implementation of the above paper. Codes are heavily borrowed from the code of the original author. The github link to original code is https://github.com/srijankr/jodie
